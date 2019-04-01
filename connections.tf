@@ -16,4 +16,3 @@ provider "azurerm" {
   client_id = ""
 }
 
-
